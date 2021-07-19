@@ -1,0 +1,2 @@
+以下是關於 node.js：作為一個非同步事件驅動的 JavaScript 執行環境，Node.js 被設計來打造可擴充的網路應用程式。下方的 hello world 範例可以處理多個併發的連線，每個連線都會觸發回呼函式，但若沒有任務可執行，Node.js 就會進入休眠。
+made by Bucky Chu, created on 1626709129036
